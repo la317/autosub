@@ -96,6 +96,7 @@ LANGUAGE_CODES = {
     'vi': 'Vietnamese',
     'yi': 'Yiddish',
     'yo': 'Yoruba',
+    'yh-HK': 'Cantonese (Traditional HK)',
     'zh-CN': 'Chinese (Simplified)',
     'zh-TW': 'Chinese (Traditional)',
     'zu': 'Zulu',
